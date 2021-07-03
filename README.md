@@ -124,8 +124,8 @@
 
 - 
 ### 四.产品架构图
-![产品架构图]()
+![产品架构图](https://user-images.githubusercontent.com/72537036/124357897-61b9e800-dc50-11eb-9da7-7d8c47b7796e.png)
 
-### 五.产品流程图（针对主要功能）
-![用户流程]( )
-![用户流程]()
+### 五.角色权限架构图（针对主要功能）
+
+![角色权限架构图](https://user-images.githubusercontent.com/72537036/124357902-6a122300-dc50-11eb-88c4-8604fc1384af.png)
